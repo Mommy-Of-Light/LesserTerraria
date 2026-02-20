@@ -57,37 +57,14 @@ Adjust runtime identifier (win-x64, linux-x64, osx-x64) as needed.
 
 ## Controls
 
-<table width="100%">
-  <tr>
-    <th width="50%">Control</th>
-    <th width="50%">Action</th>
-  </tr>
-  <tr>
-    <td>W / ↑</td>
-    <td>Move Up</td>
-  </tr>
-  <tr>
-    <td>A / ←</td>
-    <td>Move Left</td>
-  </tr>
-  <tr>
-    <td>S / ↓</td>
-    <td>Move Down</td>
-  </tr>
-  <tr>
-    <td>D / →</td>
-    <td>Move Right</td>
-  </tr>
-  <tr>
-    <td>Space</td>
-    <td>Jump / Shoot</td>
-  </tr>
-  <tr>
-    <td>Esc</td>
-    <td>Pause / Exit</td>
-  </tr>
-</table>
-
+| Control | Action       |
+| ------- | ------------ |
+| W / ↑   | Move Up      |
+| A / ←   | Move Left    |
+| S / ↓   | Move Down    |
+| D / →   | Move Right   |
+| Space   | Jump / Shoot |
+| Esc     | Pause / Exit |
 
 ## Project Structure
 
