@@ -9,6 +9,8 @@ global using System.Threading.Tasks;
 global using Raylib_cs;
 
 global using static Raylib_cs.Raylib;
+global using static Raylib_cs.KeyboardKey;
 global using static Raylib_cs.Color;
 
 global using static LesserTerraria.Constants;
+global using static LesserTerraria.Helpers;
